@@ -1,8 +1,8 @@
 module.exports = {
-  name: 'William Shakespeare',
-  title: 'Poet, playwright and actor',
+  name: 'Rhys Shaw',
+  title: 'Atrophysicst, Data Scientist and Musician',
   facts: {
-    'Residence': 'London',
+    'Residence': 'Wales',
     'Homepage': `<a href="https://en.wikipedia.org/wiki/William_Shakespeare">
                   <span class="print">https://en.wikipedia.org/wiki/William_Shakespeare</span>
                   <span class="screen">wiki</span>
@@ -10,18 +10,18 @@ module.exports = {
     'Email': '<a href="mailto:wil64@yahoo.com">wil64@yahoo.com</a>'
   },
   skills: [
-    ['Comedy', '++++'],
-    ['Love', '++++'],
-    ['Theater', '++++'],
-    ['Tragedy', '++++'],
-    ['Poetry', '++++'],
-    ['Erotic', '+++'],
-    ['Sonnets', '++++'],
-    ['Plays', '++++'],
-    ['Writing', '++++'],
-    ['Directing', '+++'],
-    ['Literature', '++++'],
-    ['Influence', '++++'],
+    ['Astrophysics', '++++'],
+    ['Mathematics', '++++'],
+    ['Computational Physics', '++++'],
+    ['Python', '++++'],
+    ['Fortan', '++++'],
+    ['JavaScript', '+++'],
+    ['CSS', '++++'],
+    ['HTML', '++++'],
+    ['React.js', '++++'],
+    ['Node.js', '+++'],
+    ['Problem Solving', '++++'],
+    ['Intuition', '++++'],
   ],
   plays: [
     {
