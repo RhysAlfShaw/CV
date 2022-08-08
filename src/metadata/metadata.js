@@ -1,11 +1,10 @@
 module.exports = {
   name: 'Rhys Shaw',
-  title: 'Atrophysicst, Data Scientist and Musician',
+  title: 'Astrophysicst, Data Scientist and Developer',
   facts: {
     'Residence': 'Wales',
-    'Homepage': `<a href="https://en.wikipedia.org/wiki/William_Shakespeare">
-                  <span class="print">https://en.wikipedia.org/wiki/William_Shakespeare</span>
-                  <span class="screen">wiki</span>
+    'Homepage': `<a href="https://RhysAlfShaw.github.io/">
+                  <span class="screen">Personal Website</span>
                 </a>`,
     'Email': '<a href="mailto:wil64@yahoo.com">wil64@yahoo.com</a>'
   },
@@ -23,7 +22,7 @@ module.exports = {
     ['Problem Solving', '++++'],
     ['Intuition', '++++'],
   ],
-  plays: [
+  experience: [
     {
       title: 'Hamlet',
       written: 'Likely early 17th century',
