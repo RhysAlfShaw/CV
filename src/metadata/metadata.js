@@ -23,6 +23,9 @@ module.exports = {
     ['Problem Solving', '++++'],
     ['Intuition', '++++'],
     ['Linux','++++']
+    ['Research', '++++']
+    ['Guitar', '+++']
+    
   ],
   
   projects: [
