@@ -4,7 +4,8 @@ module.exports = {
   facts: {
     'Residence': 'Wales, Uk',
     'Homepage': `<a href="https://RhysAlfShaw.github.io/">
-                  <span class="screen">Personal Website</span>
+                  <span class="print">https://RhysAlfShaw.github.io/</span>
+                  <span class="screen">https://RhysAlfShaw.github.io/</span>
                 </a>`,
     'Email': '<a href="mailto:rhysalfshaw@gmail.com">rhysalfshaw@gmail.com</a>'
   },
@@ -29,9 +30,6 @@ module.exports = {
       title: 'MSc Project: Studing the effect of Substucture in Star Clusters.',
       written: '2021',
       badges: ['Python','Linux' , 'Fortan','Computational Physics', 'Problem Solving'],
-    
-      GitHub:'<a href="https://github.com/RhysAlfShaw/Portfolio">Project Files</a>',
-      
       contents: 'Simulating a planetary system orbiting solar mass stars within a fractally substructured cluster using a dual integrator approach, where the cluster was integrated with NBODY6++ and star positions interpolated for use by the planetary integrator.'
     },
     {
