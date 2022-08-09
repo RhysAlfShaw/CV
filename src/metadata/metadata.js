@@ -7,7 +7,8 @@ module.exports = {
                   <span class="print">https://RhysAlfShaw.github.io/</span>
                   <span class="screen">https://RhysAlfShaw.github.io/</span>
                 </a>`,
-    'Email': '<a href="mailto:rhysalfshaw@gmail.com">rhysalfshaw@gmail.com</a>'
+    'Email': '<a href="mailto:rhysalfshaw@gmail.com">rhysalfshaw@gmail.com</a>',
+    'LinkedIn': 'https://www.linkedin.com/in/rhys-shaw-6766a8166/',
   },
   skills: [
     ['Astrophysics', '++++'],
