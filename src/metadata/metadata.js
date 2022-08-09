@@ -25,18 +25,17 @@ module.exports = {
   
   experience: [
     {
-      header: 'MSc Project: Studing the effect of Substucture in Star Clusters.',
-      skills: ['theater', 'play'],
-      contents: `
-Thousands of performances of my plays have been staged since the end of the 16th century. Many of my greatest plays were performed by the Lord Chamberlain's Men and King's Men acting companies at the [Globe](https://en.wikipedia.org/wiki/Globe_Theatre) and Blackfriars Theatres.
-`
+      title: 'MSc Project: Studing the effect of Substucture in Star Clusters.',
+      written: '2021',
+      badges: ['Python','Linux' , 'Fortan','Computational Physics', 'Problem Solving'],
+      contents: ''
     },
     {
-      header: 'BSc Project: Examining Galaxy Cluster Properties from seperatly selected samples.',
-      skills: ['poetry', 'erotic'],
-      contents: `
-In 1593 and 1594, when the theatres were closed because of plague, I published two narrative poems on sexual themes, Venus and Adonis and The Rape of Lucrece. He dedicated them to Henry Wriothesley, Earl of Southampton.
-`
+      title: 'BSc Project: Examining Galaxy Cluster Properties from seperatly selected samples.',
+      written: '2020',
+      badges: ['Python', 'Data Analysis', 'Linux', 'Problem Solving'],
+      contents: ''
+
     }
   ]
 };
