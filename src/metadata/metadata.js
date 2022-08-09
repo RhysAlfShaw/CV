@@ -20,12 +20,6 @@ module.exports = {
     ['HTML', '+++'],
     ['React.js', '+++'],
     ['Node.js', '+++'],
-    ['Problem Solving', '++++'],
-    ['Intuition', '++++'],
-    ['Linux','++++']
-    ['Research', '++++']
-    ['Guitar', '+++']
-    ['Git', '+++']
   ],
   
   projects: [
