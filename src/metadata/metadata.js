@@ -25,7 +25,7 @@ module.exports = {
     ['Linux','++++']
     ['Research', '++++']
     ['Guitar', '+++']
-    
+    ['Git', '+++']
   ],
   
   projects: [
