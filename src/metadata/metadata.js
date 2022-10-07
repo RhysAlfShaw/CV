@@ -1,6 +1,6 @@
 module.exports = {
   name: 'Rhys Shaw',
-  title: 'M.Inst.P, MSc, BSc \\ Astrophysicist',
+  title: 'M.Inst.P, MSc, BSc \ Astrophysicist',
   facts: {
     'Residence': 'Wales, Uk',
     'Homepage': `<a href="https://RhysAlfShaw.github.io/">
@@ -8,7 +8,7 @@ module.exports = {
                   <span class="screen">https://RhysAlfShaw.github.io/</span>
                 </a>`,
     'Email': '<a href="mailto:rhysalfshaw@gmail.com">rhysalfshaw@gmail.com</a>',
-    'LinkedIn': 'https://www.linkedin.com/in/rhys-shaw-6766a8166/',
+    'LinkedIn': '<a href="https://www.linkedin.com/in/rhys-shaw-6766a8166/">Rhys Shaw</a>',
   },
   skills: [
     ['Astrophysics', '++++'],
@@ -22,6 +22,9 @@ module.exports = {
     ['React.js', '+++'],
     ['Node.js', '+++'],
   ],
+
+  profile: 'Hello, I am Rhys. I am a current PhD researcher at the University of Bristol. My research focuses on radio source analysis, using machine learning techniques. I have some experience with web-developement and I have been programming for more than 4 years.',
+
   
   projects: [
     {
