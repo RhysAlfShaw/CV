@@ -1,6 +1,6 @@
 module.exports = {
   name: 'Rhys Shaw',
-  title: 'Astrophysicst, Data Scientist and Developer',
+  title: 'M.Inst.P, MSc, BSc \\ Astrophysicist',
   facts: {
     'Residence': 'Wales, Uk',
     'Homepage': `<a href="https://RhysAlfShaw.github.io/">
@@ -24,6 +24,12 @@ module.exports = {
   ],
   
   projects: [
+    {
+      title: 'PhD Research: Radio source multipicity and Machine Learning.',
+      written: 'Inprogress ~ Due for completion 2026',
+      badges : ['Python', 'Software Engineering', 'Machine Learning', 'Neural Networks','Computational Astrophysics','Radiowave Sources'],
+      contents : ' Developing tools to create true associations between seperated radio sources using morphological, spectral and flux analysis of the source to feed into a neural network to learn characteristics of these associations. This will allow for quick processing of SKA and future radio observational data.'
+    },
     {
       title: 'MSc Project: Studing the effect of Substucture in Star Clusters.',
       written: '2021',
