@@ -21,8 +21,8 @@ module.exports = {
     ['HTML', '+++'],
     ['React.js', '+++'],
     ['Node.js', '+++'],
-    ['Neural Networks', '+++']
-    ['Machine Learning', '+++']
+    ['Neural Networks', '+++'],
+    ['Machine Learning', '+++'],
   ],
 
   profile: 'Hello, I am Rhys. I am a current PhD researcher at the University of Bristol. My research focuses on radio source analysis, using machine learning techniques. I have some experience with web-developement and I have been programming for more than 4 years.',
