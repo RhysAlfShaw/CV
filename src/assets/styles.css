@@ -38,6 +38,11 @@
         display: none;
     }
 
+    body{
+        margin-left:400px;
+        margin-right:400px;
+    }
+
     @media (min-width: 576px) {
         .page {
             margin-top: 10px;
