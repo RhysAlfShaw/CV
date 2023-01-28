@@ -27,7 +27,7 @@
 
 @media not print {
     html {
-        background: url(Assets/images/james-webb1.png) no-repeat center fixed;
+        background: url(images/james-webb1.png) no-repeat center fixed;
         background-size: cover;
     }
     .print {
