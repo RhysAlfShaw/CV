@@ -1,8 +1,4 @@
 @media print {
-    html {
-        background: url(james-webb1.png) no-repeat center fixed;
-        background-size: cover;
-    }
     body {
         font-size: 19px;
     }
@@ -36,6 +32,11 @@
     }
     .print {
         display: none;
+    }
+
+    body{
+        margin-left:400px;
+        margin-right:400px;
     }
 
     @media (min-width: 576px) {
