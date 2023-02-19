@@ -35,8 +35,8 @@
     }
 
     body{
-        margin-left:400px;
-        margin-right:400px;
+        margin-left:10%;
+        margin-right:10%;
     }
 
     @media (min-width: 576px) {
